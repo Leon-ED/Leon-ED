@@ -3,7 +3,7 @@
 
 
 - 🌱 Etudiant en BUT Informatique à l'IUT Marne-la-Vallée
-- 👯 Je suis à la recherche d'une alternance pour la 2ème et 3ème année 
+- 👯 A la recherche d'une alternance pour la 2ème et 3ème année 
 <!--
 - 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with ...
