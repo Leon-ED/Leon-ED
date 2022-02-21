@@ -1,4 +1,4 @@
-### Bienvenue 👋
+<h1>Bienvenue  👋 </h1>
 
 
 
@@ -12,4 +12,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-
+<h2>Me contacter</h2>
+<a href="https://www.linkedin.com/in/léon-edmee" target="_blank"><img alt="LinkedIn profile"
+        src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
