@@ -3,7 +3,6 @@
 
 
 - 🌱 Etudiant en BUT Informatique à l'IUT Marne-la-Vallée
-- 👯 A la recherche d'une alternance pour la 2ème et 3ème année 
 - ⚡ Tous mes projets réalisés en BUT Informatique ont pour préfixe : but-
 <!--
 - 🔭 I’m currently working on ...
