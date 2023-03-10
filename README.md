@@ -3,6 +3,7 @@
 
 
 - 🌱 Etudiant en BUT Informatique à l'IUT Marne-la-Vallée
+- 🔭 En apprentissage chez <b>Action Contre la Faim</b> en tant qu'<b>Apprenti développeur et support</b>
 <!--
 - 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with ...
