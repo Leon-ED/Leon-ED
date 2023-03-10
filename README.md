@@ -1,6 +1,10 @@
 <h1 align="center">Bienvenue 👋, je suis Léon</h1>
 <h3 align="center">Développeur français de 19 ans ...</h3>
 
+- 🌱 Etudiant en BUT Informatique à l'Université Gustave Eiffel **https://www.univ-gustave-eiffel.fr/**
+
+- 🔭 En apprentissage chez <b>Action Contre la Faim</b> en tant qu'<b>Apprenti développeur et support</b> **https://www.actioncontrelafaim.org/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/léon-edmee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="léon-edmee" height="30" width="40" /></a>
