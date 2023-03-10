@@ -1,9 +1,9 @@
 <h1 align="center">Bienvenue 👋, je suis Léon</h1>
 <h3 align="center">Développeur français de 19 ans ...</h3>
 
-- 🌱 Etudiant en BUT Informatique à l'Université Gustave Eiffel **https://www.univ-gustave-eiffel.fr/**
+- 🌱 Etudiant en BUT Informatique à l'Université Gustave Eiffel [https://www.univ-gustave-eiffel.fr/](https://www.univ-gustave-eiffel.fr/)
 
-- 🔭 En apprentissage chez <b>Action Contre la Faim</b> en tant qu'<b>Apprenti développeur et support</b> **https://www.actioncontrelafaim.org/**
+- 🔭 En apprentissage chez <b>Action Contre la Faim</b> en tant qu'<b>Apprenti développeur et support</b> [https://www.actioncontrelafaim.org/](https://www.actioncontrelafaim.org/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
