@@ -1,6 +1,6 @@
 <h1 align="center">Bienvenue 👋, je suis Léon</h1>
 
-- 🌱 Etudiant à l' [ESIEE Paris](https://esiee.fr/)
+- 🌱 Etudiant à l'[ESIEE Paris](https://www.esiee.fr/)
 
 - 🔭 En apprentissage chez <b>[Action Contre la Faim](https://www.actioncontrelafaim.org/)</b> en tant qu'<b>Apprenti développeur et support</b> 
 
