@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenue 👋, je suis Léon</h1>
+<h1 align="center">Bienvenue 👋</h1>
 
 - 🌱 Etudiant à l'[ESIEE Paris](https://www.esiee.fr/)
 
