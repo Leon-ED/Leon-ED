@@ -2,7 +2,7 @@
 
 - 🌱 Etudiant à l'[ESIEE Paris](https://www.esiee.fr/)
 
-- 🔭 En apprentissage chez <b>[Action Contre la Faim](https://www.actioncontrelafaim.org/)</b> en tant qu'<b>Apprenti développeur et support</b> 
+- 🔭 En apprentissage chez <b>[Action Contre la Faim](https://www.actioncontrelafaim.org/)</b> en tant qu'<b>Développeur Full Stack</b> 
 
 <h3 align="left">Me retrouver:</h3>
 <p align="left">
